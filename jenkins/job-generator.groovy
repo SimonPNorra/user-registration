@@ -1,6 +1,6 @@
 import java.time.*
 
-def gitUrl = 'git@github.com:SimonPNorra/user-registration.git'
+def gitUrl = 'https://github.com/SimonPNorra/user-registration.git'
 
 // Job that read the pipeline directory for a certain branch
 job("user-registration-pipeline") {
