@@ -21,6 +21,10 @@ local.properties
 .vagrant
 .settings/
 .loadpath
+*-cc.groovy
+.idea
+*.iml
+*/log
 
 # External tool builders
 .externalToolBuilders/
